@@ -10,6 +10,12 @@ This project has the following features:
 A Start Quiz button
 An HTML page that features questions, and multiple choice answers
 A Highscores HTML
+
+
+To Execute File:
+
+Open in browser
+
 ## User Story
 
 ```
