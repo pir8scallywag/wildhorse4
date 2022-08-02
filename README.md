@@ -34,9 +34,10 @@ The following animation demonstrates the application functionality:
 
 You are required to submit the following for review:
 
-* The URL of the functional, deployed application.
+* The URL of the functional, deployed application:
+https://pir8scallywag.github.io/wildhorse4/
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
+https://github.com/pir8scallywag/wildhorse4
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
